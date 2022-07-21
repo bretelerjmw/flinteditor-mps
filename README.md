@@ -4,7 +4,9 @@ This is an experimental project exploring the viability of a visual FLINT editor
 ## Development
 1. Install Java 11
 2. Clone the repository
-3. Run `gradlew initProject`
+3. From the repository's root directory, initialize the project:  
+UN*X: run `gradlew initProject`  
+Windows: run `./gradlew.bat initProject`
 4. Start the ide for your specific platform. The executables are locatied in `build/mps/bin`
 
 ### Audit
